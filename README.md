@@ -16,6 +16,6 @@ repositories {
 }
 
  dependencies {
-   debugImplementation 'com.github.RomanTsarou:privatefiles:0.0.1'
+   debugImplementation 'com.github.RomanTsarou:privatefiles:1.0.1'
  }
 ```
